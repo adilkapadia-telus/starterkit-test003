@@ -1,4 +1,4 @@
-name: choose_project_name
+name: choose_project_nam
 chart: cio-gke-deployment-chart.0.5.0
 application: your-application-name
 namespace: your-gke-namespace
